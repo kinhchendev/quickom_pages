@@ -1,1 +1,5 @@
-"{\"platform\":\"ios\",\"latest_version\":\"1.0.0\",\"force_update_version\":\"1.0.0\"}"
+{
+  "platform": "ios",
+  "latest_version": "1.0.0",
+  "force_update_version": "1.0.0"
+}
